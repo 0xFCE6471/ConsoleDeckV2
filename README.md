@@ -1,4 +1,4 @@
-# 🎮 Console Deck V2 – C# Edition [(https://makerworld.com/en/models/1717141-console-deck-v2#profileId-1822667)]
+# [🎮 Console Deck V2 – C# Edition](https://makerworld.com/en/models/1717141-console-deck-v2#profileId-1822667)
 
 | [![Console Deck V2](https://i.postimg.cc/mrnbtFGh/Untitled.png)](https://postimg.cc/Z9rkQnnh) | [![Interface Preview](https://i.postimg.cc/5t4JPSfx/Untitled.png)](https://postimg.cc/CRQ95DZt) |
 |:--:|:--:|
