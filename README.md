@@ -23,7 +23,7 @@ This **C# version** recreates the functionality of the original Python script ma
 ## ⚠️ Disclaimer
 
 I am **not the original author** of the Console Deck V2 concept or hardware.  
-All credits and recognition go to **[LucaDilo] [Github](https://makerworld.com/en/u/1822667) | [MakerWorld](https://makerworld.com/en/models/1717141-console-deck-v2#profileId-1822667)** for the original Python script and design.  
+All credits and recognition go to **[LucaDilo] [Github](https://github.com/LucaDiLorenzo98/cd_v2_script) | [MakerWorld](https://makerworld.com/en/models/1717141-console-deck-v2#profileId-1822667)** for the original Python script and design.  
 This version simply adapts the idea to **C#** for Windows users.
 
 ---
