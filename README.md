@@ -32,9 +32,3 @@ This version simply adapts the idea to **C#** for Windows users.
 
 This project is released under the **MIT License**.  
 You are free to use, modify, and redistribute it as long as you follow the license terms.
-
----
-
-## 📬 Contact
-
-If you’re interested in the original Python version, or if you'd like to collaborate or improve this Windows edition, feel free to reach out!  
