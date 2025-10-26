@@ -2,7 +2,7 @@
 
 | [![Console Deck V2](https://i.postimg.cc/mrnbtFGh/Untitled.png)](https://postimg.cc/Z9rkQnnh) | [![Interface Preview](https://i.postimg.cc/5t4JPSfx/Untitled.png)](https://postimg.cc/CRQ95DZt) |
 |:--:|:--:|
-| **Original MakerWorld Model** | **C# Windows Form Interface** |
+| **Old Python Interface** | **New C# Interface** |
 
 ---
 
