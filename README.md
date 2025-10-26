@@ -1,8 +1,8 @@
 # 🎮 Console Deck V2 – C# Edition
 
-| ![Console Deck V2](https://makerworld.bblmw.com/makerworld/model/USf5be8d5e89b26b/design/2025-08-20_73a2c1e70c95c.png?x-oss-process=image/resize,w_1000/format,png) | [![Interface Preview](https://i.postimg.cc/5t4JPSfx/Untitled.png)](https://postimg.cc/CRQ95DZt) |
+| ![Console Deck V2]([https://makerworld.bblmw.com/makerworld/model/USf5be8d5e89b26b/design/2025-08-20_73a2c1e70c95c.png?x-oss-process=image/resize,w_1000/format,png](https://i.postimg.cc/mrnbtFGh/Untitled.png)) | [![Interface Preview](https://i.postimg.cc/5t4JPSfx/Untitled.png)](https://postimg.cc/CRQ95DZt) |
 |:--:|:--:|
-| **Original MakerWorld Model** | **C# Windows Form Interface** |
+| **Original Interface** | **New C# Interface** |
 
 ---
 
